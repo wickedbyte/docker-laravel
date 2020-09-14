@@ -9,7 +9,7 @@ LABEL org.opencontainers.image.authors="Andy Snell <andy@wickedbyte.com>"
 LABEL org.opencontainers.image.licenses="MIT"
 LABEL org.opencontainers.image.title="PHP-FPM 7.4 Runtime for Laravel"
 LABEL org.opencontainers.image.description="PHP-FPM 7.4 image tailored for development with Laravel >= 7"
-LABEL org.opencontainers.image.source="https://github.com/wickedbyte/docker-for-laravel"
+LABEL org.opencontainers.image.source="https://github.com/wickedbyte/docker-laravel"
 LABEL org.opencontainers.image.version="0.0.1"
 LABEL org.opencontainers.image.revision=$REVISION
 
